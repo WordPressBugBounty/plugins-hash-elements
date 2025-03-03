@@ -3,14 +3,13 @@
 /**
  * Plugin Name: Hash Elements - Addons for Elementor
  * Description: Elementor addons for WordPress Themes developed by HashThemes https://hashthemes.com
- * Version: 1.5.1
+ * Version: 1.5.2
  * Author: HashThemes
  * Author URI: https://hashthemes.com/
  * Text Domain: hash-elements
  * License: GPL-2.0+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  * Domain Path: /languages
- * Requires Plugins: elementor
  * Elementor tested up to: 3.27
  * Elementor Pro tested up to: 3.2.1
  */
@@ -19,7 +18,7 @@ if (!defined('WPINC')) {
     die();
 }
 
-define('HASHELE_VERSION', '1.5.1');
+define('HASHELE_VERSION', '1.5.2');
 
 define('HASHELE_FILE', __FILE__);
 define('HASHELE_PLUGIN_BASENAME', plugin_basename(HASHELE_FILE));
