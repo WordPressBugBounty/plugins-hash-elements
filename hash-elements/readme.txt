@@ -2,9 +2,9 @@
 Contributors: hashthemes
 Tags: elementor, hashthemes, drag and drop, page builder
 Requires at least: 6.3
-Tested up to: 6.7
-Stable tag: 1.5.2
-Requires PHP: 7.4
+Tested up to: 6.9
+Stable tag: 1.5.4
+Requires PHP: 7.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -39,8 +39,13 @@ The easy way to install the plugin is via WordPress.org plugin directory.
 <li>Activate Plugin from "Plugins" menu in WordPress.</li>
 </ol>
 
-
 == Changelog ==
+= 1.5.4 - 6 Dec, 2025 =
+* Compatibility test with WordPress version 6.9
+
+= 1.5.3 - 18 Nov, 2025 =
+* Warning in Logo Carousel block - Fixed
+
 = 1.5.2 - 3 Mar, 2025 =
 * Escaping missing on string translation added
 
